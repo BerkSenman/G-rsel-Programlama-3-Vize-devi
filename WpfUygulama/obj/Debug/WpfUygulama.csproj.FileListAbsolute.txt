@@ -1,0 +1,17 @@
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\bin\Debug\WpfUygulama.exe.config
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\bin\Debug\WpfUygulama.exe
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\bin\Debug\WpfUygulama.pdb
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama.csprojAssemblyReference.cache
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\Duzenle.g.cs
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\MainWindow.g.cs
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\App.g.cs
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama_MarkupCompile.cache
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama_MarkupCompile.lref
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\Duzenle.baml
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\MainWindow.baml
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama.g.resources
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama.Properties.Resources.resources
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama.csproj.GenerateResource.cache
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama.csproj.CoreCompileInputs.cache
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama.exe
+C:\Users\berk_\source\repos\GorselVizeSınavOdevi\WpfUygulama\obj\Debug\WpfUygulama.pdb

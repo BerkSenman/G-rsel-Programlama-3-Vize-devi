@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfUygulama.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfUygulama"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="AliceBlue" Loaded="Window_Loaded">
+    <Grid>
+        <Button Name="btnDuzenle" Content="Tabloyu Düzenlemek İçin Tıklayın" Background="Beige" Margin="138,211,140,167" Click="btnDuzenle_Click"/>
+        <DataGrid Name="tablo1" Height="155" Margin="138,28,140,0" Grid.Column="0" AutoGenerateColumns="False" VerticalAlignment="Top">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Ad" Binding="{Binding Ad}"/>
+                <DataGridTextColumn Header="Soyad" Binding="{Binding Soyad}"/>
+                <DataGridTextColumn Header="Yaş" Binding="{Binding Yas}"/>
+                <DataGridTextColumn Header="Cinsiyet" Binding="{Binding Cinsiyet}" />
+                <DataGridTextColumn Header="Öğrenci Numarası" Binding="{Binding OgrenciNo}" />
+                <DataGridTextColumn Header="Bölüm" Binding="{Binding Bolum}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
